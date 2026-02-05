@@ -67,3 +67,6 @@ num = input("Enter a number: ")   # Step 1: take input
 num_int = int(num)                # Step 2: convert to integer
 result = num_int + 5              # Step 3: add 5
 print(result)                     # Step 4: print result
+
+
+
