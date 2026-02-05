@@ -23,7 +23,7 @@ print(type(total))    # Step 5: print data type
 
 # 4. Assign a boolean value and print its type
 is_student = True     # Step 1: boolean value
-print(type(is_student))  # Step 2: print data type
+print(type(is_student))  # Step 2: print data type 
 
 
 # 5. Create a variable with None and print its type 
