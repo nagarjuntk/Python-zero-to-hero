@@ -8,7 +8,7 @@ print(a / b)
 
 # Comparison Operators
 print(a > b)
-print(a == b)
+print(a == b)  
 
 # Logical Operators
 x = True

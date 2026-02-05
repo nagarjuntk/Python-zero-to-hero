@@ -2,6 +2,7 @@
 
 This folder contains my Day 01 Python practice as part of my daily Python learning journey.
 
+
 ## 📌 Topics Covered
 - Variables in Python
 - Data types (`int`, `float`, `str`, `bool`, `None`)

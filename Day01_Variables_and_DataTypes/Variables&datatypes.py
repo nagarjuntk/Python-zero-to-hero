@@ -26,7 +26,7 @@ is_student = True     # Step 1: boolean value
 print(type(is_student))  # Step 2: print data type
 
 
-# 5. Create a variable with None and print its type
+# 5. Create a variable with None and print its type 
 habit = None          # Step 1: assign None
 print(type(habit))    # Step 2: print data type
 
