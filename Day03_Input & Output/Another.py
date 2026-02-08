@@ -16,7 +16,8 @@ friend2_age = int(input("Friend 2 Age: "))
 print(friend1_name + " and " + friend2_name + " are best friends")
 
 # Calculate age difference
-age_diff = abs(friend1_age - friend2_age)
+age_diff = abs(friend1_age - friend2_age)  
 
 # Final formatted output
-print(f"{friend1_name} and {friend2_name} have an age difference of {age_diff} years")
+print(f"{friend1_name} and {friend2_name} have an age difference of {age_diff} years") 
+

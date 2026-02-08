@@ -4,7 +4,7 @@ This folder contains my Day 04 Python practice focused on taking input from user
 and displaying output in different formats.
 
 ## 📌 Topics Covered
-- input() function
+- input() function 
 - print() function
 - Type casting with input
 - Multiple inputs
