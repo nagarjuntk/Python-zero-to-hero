@@ -5,7 +5,7 @@ and string manipulation.
 
 ## 📌 Topics Covered
 - String creation
-- String indexing
+- String indexing 
 - String slicing
 - String concatenation
 - String methods
