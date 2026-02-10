@@ -6,9 +6,9 @@ and string manipulation.
 ## 📌 Topics Covered
 - String creation
 - String indexing 
-- String slicing
-- String concatenation
+- String slicing 
+- String concatenation 
 - String methods
 - Formatted strings (f-strings)
 
-📅 Learning Progress: Day 04
+📅 Learning Progress: Day 04 
