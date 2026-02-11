@@ -55,4 +55,4 @@ print(new_sentence)
 # 10. f-string example
 name = "Nagarjun"
 age = 21
-print(f"My name is {name} and I am {age} years old")
+print(f"My name is {name} and I am {age} years old") 

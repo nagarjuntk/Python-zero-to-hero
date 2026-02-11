@@ -9,6 +9,6 @@ and string manipulation.
 - String slicing 
 - String concatenation 
 - String methods
-- Formatted strings (f-strings)
+- Formatted strings (f-strings) 
 
 📅 Learning Progress: Day 04 
