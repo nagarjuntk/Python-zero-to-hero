@@ -13,6 +13,6 @@
 6. Check whether a word exists in a string.
 7. Reverse a string.
 8. Count how many times a character appears in a string.
-9. Replace a word in a string.
+9. Replace a word in a string. 
 10. Print your name using f-string.     
    
