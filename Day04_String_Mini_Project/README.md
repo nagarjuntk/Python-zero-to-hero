@@ -9,3 +9,4 @@ This program checks whether a password is strong or weak.
   - One lowercase letter
   - One digit
   - One special character 
+ 
