@@ -7,4 +7,5 @@
 5. Remove the age key.
 6. Print all keys.
 7. Print all values.
-8. Print all key-value pairs using loop.
+8. Print all key-value pairs using loop.  
+
