@@ -8,4 +8,4 @@
 6. Print all keys.
 7. Print all values.
 8. Print all key-value pairs using loop.  
-
+ 
