@@ -43,5 +43,5 @@ print("Values:", student.values())
 # 8. Loop through dictionary
 print("Key-Value pairs:")
 for key, value in student.items():
-    print(key, ":", value)
+    print(key, ":", value) 
 
