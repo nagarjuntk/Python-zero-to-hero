@@ -1,39 +1,41 @@
-# 🧩 Day 9 – Python Functions Practice
+# ===============================
+# Day 9 – Function Solutions
+# ===============================
 
-## Q1 — Simple Function
+print("\n--- Q1 Simple Function ---")
+def greet():
+    print("Hello Python")
 
-Write a function that prints:
+greet()
 
-Hello Python
 
-Call the function.
+print("\n--- Q2 Function with Parameter ---")
+def hello(name):
+    print("Hello", name)
 
----
+hello("Nagarjun")
 
-## Q2 — Function with Parameter
 
-Create a function that takes a name and prints:
+print("\n--- Q3 Add Two Numbers ---")
+def add(a, b):
+    print("Sum =", a + b)
 
-Hello <name>
+add(10, 20)
 
----
 
-## Q3 — Add Two Numbers
+print("\n--- Q4 Return Square ---")
+def square(n):
+    return n * n
 
-Create a function that takes two numbers and prints their sum.
+result = square(5)
+print("Square =", result)
 
----
 
-## Q4 — Return Square ⭐
+print("\n--- Q5 Even or Odd ---")
+def check(num):
+    if num % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
 
-Create a function that takes a number and returns its square.
-
-Print the returned value.
-
----
-
-## Q5 ⭐⭐ Even or Odd Function (INTERVIEW FAVORITE)
-
-Create a function that takes a number and returns:
-
-Even OR Odd
+print(check(7))
