@@ -9,7 +9,7 @@ Practice Python dictionaries including creation, access, update, looping, and so
 ## 📘 Topics Covered
 
 * Dictionary creation using {}
-* Accessing values by keys
+* Accessing values by keys 
 * Adding and updating dictionary entries
 * Looping through dictionary
 * Counting character frequency
