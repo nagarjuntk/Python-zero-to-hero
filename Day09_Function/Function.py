@@ -38,4 +38,4 @@ def check(num):
     else:
         return "Odd" 
 
-print(check(7))  
+print(check(7))   
