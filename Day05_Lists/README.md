@@ -19,5 +19,5 @@ Today I practiced basic list operations in Python.
 - We should not use 'list' as a variable name.
 - Lists allow duplicate values.
 
-📅 Learning Progress: Day 06
+📅 Learning Progress: Day 06 
  
