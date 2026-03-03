@@ -38,7 +38,7 @@ print("Length of list:", len(my_list))
 
 
 # 9. Count occurrence of 20
-print("Count of 20:", my_list.count(20))
+print("Count of 20:", my_list.count(20)) # Count how many times 20 appears in the list  
 
 
 # 10. Reverse the list
