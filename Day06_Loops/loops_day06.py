@@ -48,4 +48,4 @@ for i in range(1, 6):
 # 7. Multiplication table of 5
 print("Table of 5:")
 for i in range(1, 11):
-    print("5 x", i, "=", 5 * i) 
+    print("5 x", i, "=", 5 * i)  
