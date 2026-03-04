@@ -20,4 +20,4 @@ Today I practiced basic list operations in Python.
 - Lists allow duplicate values.
 
 📅 Learning Progress: Day 06 
- 
+               
