@@ -22,7 +22,7 @@ print("After append:", my_list)
 my_list.insert(1, 15)
 print("After insert:", my_list)
 
-
+ 
 # 6. Remove an element (remove 30)
 my_list.remove(30)
 print("After remove:", my_list)

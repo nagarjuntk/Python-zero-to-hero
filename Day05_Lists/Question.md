@@ -9,4 +9,4 @@
 7. Update the first element of the list.
 8. Find the length of the list.
 9. Count how many times an element appears.
-10. Reverse the list.
+10. Reverse the list. 

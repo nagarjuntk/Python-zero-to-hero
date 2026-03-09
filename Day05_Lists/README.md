@@ -11,7 +11,7 @@ Today I practiced basic list operations in Python.
 - Finding length of list
 - Counting elements
 - Reversing a list
-- List slicing
+- List slicing  
 
 ## 🧠 What I Learned
 - Lists are ordered and mutable.
