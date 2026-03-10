@@ -10,3 +10,4 @@
 8. Find the length of the list.
 9. Count how many times an element appears.
 10. Reverse the list. 
+ 

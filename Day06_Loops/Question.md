@@ -6,4 +6,4 @@
 4. Print sum of numbers from 1 to 100.
 5. Stop the loop when number becomes 5.
 6. Skip printing number 3.
-7. Print multiplication table of 5.   
+7. Print multiplication table of 5.    
