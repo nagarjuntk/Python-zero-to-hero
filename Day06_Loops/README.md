@@ -12,9 +12,9 @@ Today I practiced loops in Python.
 
 ## 🧠 What I Learned
 - for loop is used to iterate over sequences.
-- while loop runs until condition becomes false.
+- while loop runs until condition becomes false.  
 - break stops the loop.
 - continue skips current iteration.
 - range() helps generate numbers.
 
-📅 Learning Progress: Day 06  
+📅 Learning Progress: Day 06    
