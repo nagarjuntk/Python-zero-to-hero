@@ -15,6 +15,6 @@ Today I practiced loops in Python.
 - while loop runs until condition becomes false.  
 - break stops the loop.
 - continue skips current iteration.
-- range() helps generate numbers.
+- range() helps generate numbers. 
 
-📅 Learning Progress: Day 06    
+📅 Learning Progress: Day 06      
