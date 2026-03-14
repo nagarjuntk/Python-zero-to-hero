@@ -17,4 +17,4 @@ Today I practiced loops in Python.
 - continue skips current iteration.
 - range() helps generate numbers. 
 
-📅 Learning Progress: Day 06      
+📅 Learning Progress: Day 06  

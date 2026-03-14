@@ -12,9 +12,9 @@ for i in range(1, 11):
 print("Numbers 10 to 1:")
 num = 10
 while num >= 1:
-    print(num)
+    print(num)  
     num -= 1
-
+ 
 
 # 3. Print even numbers from 1 to 20
 print("Even numbers:")
